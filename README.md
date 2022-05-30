@@ -89,5 +89,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 📝 Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
-
-Feito por Matheus Maia Alvarez👋🏽 [Entre em contato!](https://br.linkedin.com/in/matheus-maia-alvarez-)
