@@ -19,6 +19,8 @@ Todos os Signos
 
 Projeto desenvolvido em ReactJS durante aula de PWFE (Programação Web Front-End) no Senai Suiço Brasileira. 
 
+<p>Link do projeto: https://signosapp-project.netlify.app</p>
+
 ---
 
 ## ⚙️ Funcionalidades
